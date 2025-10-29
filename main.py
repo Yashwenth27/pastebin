@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_config("ThingSpeak - Cloud",layout="wide")
+st.set_page_config("ThingSpeak - Cloud",layout="wide")
 codee = '''
 LED Blinking:
 ------------
